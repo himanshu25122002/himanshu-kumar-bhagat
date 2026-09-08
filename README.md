@@ -55,7 +55,7 @@ git init
 git add .
 git commit -m "Initial portfolio"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
+git remote add origin https://github.com/himanshu25122002/himanshu-kumar-bhagat
 git push -u origin main
 ```
 
@@ -73,9 +73,7 @@ No environment variables are required. The site has no backend, so there is noth
 
 - [ ] Confirm the Google Drive resume/Research CV links in `lib/data.ts` are set to "Anyone with the link can view."
 - [ ] Confirm all six project GitHub repositories are public.
-- [ ] Add a custom domain in Vercel's project settings if you have one (optional).
 - [ ] Swap `app/icon.svg` for a custom favicon/logo if you'd like something more personal — it's a plain "HB" monogram placeholder right now.
-- [ ] Re-check the LESA DOI before sharing the live link widely (this was flagged during resume review as worth double-checking against IEEE Xplore directly).
 
 ## Notes on content accuracy
 
