@@ -144,7 +144,7 @@ export const projects = [
     github: "https://github.com/himanshu25122002/AI-News-Anchor",
   },
   {
-    name: "Yuno Agent Platform",
+    name: "AI Agent Platform",
     description:
       "Visual multi-agent orchestration platform for creating specialized AI agents, connecting them into workflows, and executing tasks through collaborative teams. Includes a visual workflow builder and live execution monitoring.",
     tech: ["React", "FastAPI", "LangGraph"],
